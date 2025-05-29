@@ -696,7 +696,4 @@ provided. This article is anticipated to serve as a valuable resource for resear
 the recent advancements in LLMs and providing fundamental concepts and details to develop better 
 LLMs.
 
-# Output
 
-
-# Result
