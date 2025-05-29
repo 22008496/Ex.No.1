@@ -57,17 +57,17 @@ Step 7: Finalize and Export
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
 
-AIM: 
+# AIM: 
 Comprehensive Report on the Fundamentals of Generative AI and Large 
 Language Models (LLMs)  
-ALGORITHM: 
+# ALGORITHM: 
 Introduction 
 Foundations of Generative AI 
 Understanding Large Language Models (LLMs) 
 Training and Dataset Considerations 
 Applications of Generative AI and LLMs 
 Challenges and Limitations 
-What is generative AI? 
+# What is generative AI? 
 Generative AI, sometimes called gen AI, is artificial intelligence (AI) that can create original content such 
 as text, images, video, audio or software code in response to a user’s prompt or request. 
 Generative AI relies on sophisticated machine learning models called deep learning models algorithms 
@@ -84,7 +84,7 @@ services. According to research by the management consulting firm McKinsey, one 
 are already using generative AI regularly in at least one business function.¹ Industry analyst Gartner 
 projects more than 80% of organizations will have deployed generative AI applications or used 
 generative AI application programming interfaces (APIs) by 2026.2 
-How generative AI works: 
+# How generative AI works: 
 For the most part, generative AI operates in three phases:  
 Training, to create a foundation model that can serve as the basis of multiple gen AI applications. 
 Tuning, to tailor the foundation model to a specific gen AI application. 
@@ -136,7 +136,7 @@ to supplement and refine the parameters or representations in the original model
 a generative AI app always has access to the most current information. As a bonus, the additional 
 sources accessed via RAG are transparent to users in a way that the knowledge in the original foundation 
 model is not. 
-Generative AI is poised to affect multiple roles within various sectors: 
+# Generative AI is poised to affect multiple roles within various sectors: 
 Generative AI model architectures and how they have evolved 
 Truly generative AI models deep learning models that can autonomously create content on demand have 
 evolved over the last dozen years or so. The milestone model architectures during that period include 
@@ -191,7 +191,7 @@ natural language understanding (NLU), and can generate longer sequences of data 
 to questions, but poems, articles or papers with greater accuracy and higher quality than other deep 
 generative AI models. Transformer models can also be trained or tuned to use tools e.g., a spreadsheet 
 application, HTML, a drawing program to output content in a particular format. 
-What generative AI can create: 
+# What generative AI can create: 
 Generative AI can create many types of content across many different domains.  
 Text- 
 Generative models. especially those based on transformers, can generate coherent, contextually 
@@ -266,7 +266,7 @@ testing medical imaging systems.
 
 ![Screenshot 2025-03-24 085941](https://github.com/user-attachments/assets/bcf2cce2-50e1-4303-831b-d4fbb3c5b0db)
 
-Challenges, limitations and risks 
+# Challenges, limitations and risks 
 Generative AI has made remarkable strides in a relatively short period of time, but still presents 
 significant challenges and risks to developers, users and the public at large. Below are some of the most 
 serious issues, and how they're being addressed.  
@@ -448,7 +448,7 @@ reality and game development
 
 ![Screenshot 2025-04-25 085848](https://github.com/user-attachments/assets/4ca6f665-44a6-45e0-8253-784b264748fc)
 
-A brief history of generative AI: 
+# A brief history of generative AI: 
 The term “generative AI” exploded into the public consciousness in the 2020s, but gen AI has been part 
 of our lives for decades, and today’s generative AI technology draws on machine learning breakthroughs 
 from as far back as the early 20th century. A non-exhaustive representative history of generative AI 
@@ -475,7 +475,7 @@ contextual sentences and long-form content in response to end-user prompts.
 
 ![Screenshot 2025-04-25 090217](https://github.com/user-attachments/assets/92e5477e-8514-40ad-8acb-c9d23a3ef76e)
 
-What are LLMs? 
+# What are LLMs? 
 Large language models (LLMs) are a category of foundation models trained on immense amounts of data 
 making them capable of understanding and generating natural language and other types of content to 
 perform a wide range of tasks. 
@@ -541,7 +541,7 @@ damage to their reputation.
 
 ![Screenshot 2025-04-25 093026](https://github.com/user-attachments/assets/355ce6e0-8c57-4df4-9fd5-6b7376a3bee7)
 
-Architecture of llm: 
+# Architecture of llm: 
 LLM use cases : 
 LLMs are redefining an increasing number of business processes and have proven their versatility across 
 a myriad of use cases and tasks in various industries. They augment conversational AI in chatbots and 
@@ -559,7 +559,7 @@ LLMs are transforming industries by streamlining processes, improving customer e
 enabling more efficient and data-driven decision making. 
 Most excitingly, all of these capabilities are easy to access, in some cases literally an API integration 
 away. 
-LLM applications in different domains: 
+# LLM applications in different domains: 
 Here is a list of some of the most important areas where LLMs benefit organizations: 
 Text generation: language generation abilities, such as writing emails, blog posts or other mid-to-long 
 form content in response to prompts that can be refined and polished. An excellent example is 
@@ -589,7 +589,7 @@ Efficient 4. Inference 5. Evaluation 6. Applications 7. Challenges
  ![Screenshot 2025-04-25 093744](https://github.com/user-attachments/assets/eb76400a-8767-4a77-bf20-44f50e837048)
 
  
-An example of attention patterns in language models: 
+# An example of attention patterns in language models: 
 Key insights and findings from the study of instruction-tuned Large Language Models: 
 Models--T0 
 • Multi-task prompting enables zero-shot generalization and outperforms baselines 
@@ -631,7 +631,7 @@ A basic flow diagram of tool augmented LLMs.:
 
 ![Screenshot 2025-04-25 102635](https://github.com/user-attachments/assets/9f2907fd-3709-4175-bf0c-d709bfc4decb)
 
-Challenges of LLMs 
+# Challenges of LLMs 
 LLMs pose a number of concerns. 
 Like broader generative AI technologies, LLMs pose significant threats to certain industries, such as 
 finance, journalism, and customer support. 
@@ -669,13 +669,13 @@ and more.
 LLMs excel in environments that demand high levels of text interaction, such as customer support 
 systems and educational tools. Additionally, LLMs are used in industries like finance for tasks like fraud 
 detection, where they analyze textual data to identify anomalies. 
-Ethical and Practical Challenges-- 
+# Ethical and Practical Challenges-- 
 Both LLMs and Generative AI deal with data bias and copyright concerns due to their reliance on 
 extensive datasets. 
 Generative AI poses unique challenges with the potential creation of deepfakes. 
 LLMs have been criticized for enabling academic dishonesty and potentially spreading misinformation 
 due to their ability to generate convincing textual content. 
-Final Thoughts-- 
+# Final Thoughts-- 
 Generative AI encompasses a broad range of technologies, including Large Language Models (LLMs). 
 While generative AI as a whole pushes the boundaries of creative content production, LLMs specifically 
 refine how we generate and interact with textual data. 
@@ -683,7 +683,7 @@ The integration of these technologies into various sectors brings transformative
 significant ethical challenges and risks. 
 By understanding the specific roles and capabilities within the broader spectrum of generative AI, we can 
 better navigate these technologies and use them effectively. 
-Conclusion: 
+# Conclusion: 
 It contributes to summarizing significant findings of LLMs in the existing literature and provides a 
 detailed analysis of the design aspects, including architectures, datasets, and training pipelines. We 
 identified crucial architectural components and training strategies employed by different LLMs. These 
