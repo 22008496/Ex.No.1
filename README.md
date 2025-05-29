@@ -541,7 +541,6 @@ damage to their reputation.
 
 ![Screenshot 2025-04-25 093026](https://github.com/user-attachments/assets/355ce6e0-8c57-4df4-9fd5-6b7376a3bee7)
 
-# Architecture of llm: 
 LLM use cases : 
 LLMs are redefining an increasing number of business processes and have proven their versatility across 
 a myriad of use cases and tasks in various industries. They augment conversational AI in chatbots and 
